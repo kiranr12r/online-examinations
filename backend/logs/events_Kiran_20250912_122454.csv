@@ -1,0 +1,87 @@
+time,event,details
+2025-09-12 12:25:21,off_screen,"yaw=-18.2, pitch=27.4"
+2025-09-12 12:25:21,snapshot,Saved Kiran_off_screen_20250912_122521.jpg
+2025-09-12 12:25:21,multiple_faces,Detected 2 faces
+2025-09-12 12:25:21,snapshot,Saved Kiran_multiple_faces_20250912_122521.jpg
+2025-09-12 12:25:23,hands_near_face,distance<= 120px
+2025-09-12 12:25:23,snapshot,Saved Kiran_hands_near_face_20250912_122523.jpg
+2025-09-12 12:25:29,off_screen,"yaw=-10.9, pitch=23.9"
+2025-09-12 12:25:29,snapshot,Saved Kiran_off_screen_20250912_122529.jpg
+2025-09-12 12:25:29,multiple_faces,Detected 2 faces
+2025-09-12 12:25:29,snapshot,Saved Kiran_multiple_faces_20250912_122529.jpg
+2025-09-12 12:25:31,hands_near_face,distance<= 120px
+2025-09-12 12:25:31,snapshot,Saved Kiran_hands_near_face_20250912_122531.jpg
+2025-09-12 12:25:37,off_screen,"yaw=-11.3, pitch=37.2"
+2025-09-12 12:25:37,snapshot,Saved Kiran_off_screen_20250912_122537.jpg
+2025-09-12 12:25:38,multiple_faces,Detected 2 faces
+2025-09-12 12:25:38,snapshot,Saved Kiran_multiple_faces_20250912_122538.jpg
+2025-09-12 12:25:39,hands_near_face,distance<= 120px
+2025-09-12 12:25:39,snapshot,Saved Kiran_hands_near_face_20250912_122539.jpg
+2025-09-12 12:25:43,talking,mouth_ratio=0.073
+2025-09-12 12:25:43,snapshot,Saved Kiran_talking_20250912_122543.jpg
+2025-09-12 12:25:45,off_screen,"yaw=-12.2, pitch=32.6"
+2025-09-12 12:25:45,snapshot,Saved Kiran_off_screen_20250912_122545.jpg
+2025-09-12 12:25:46,multiple_faces,Detected 2 faces
+2025-09-12 12:25:46,snapshot,Saved Kiran_multiple_faces_20250912_122546.jpg
+2025-09-12 12:25:47,hands_near_face,distance<= 120px
+2025-09-12 12:25:47,snapshot,Saved Kiran_hands_near_face_20250912_122547.jpg
+2025-09-12 12:25:52,talking,mouth_ratio=0.068
+2025-09-12 12:25:52,snapshot,Saved Kiran_talking_20250912_122552.jpg
+2025-09-12 12:25:53,off_screen,"yaw=169.3, pitch=39.4"
+2025-09-12 12:25:53,snapshot,Saved Kiran_off_screen_20250912_122553.jpg
+2025-09-12 12:25:54,multiple_faces,Detected 2 faces
+2025-09-12 12:25:54,snapshot,Saved Kiran_multiple_faces_20250912_122554.jpg
+2025-09-12 12:26:01,off_screen,"yaw=-14.3, pitch=29.1"
+2025-09-12 12:26:01,snapshot,Saved Kiran_off_screen_20250912_122601.jpg
+2025-09-12 12:26:02,multiple_faces,Detected 2 faces
+2025-09-12 12:26:02,snapshot,Saved Kiran_multiple_faces_20250912_122602.jpg
+2025-09-12 12:26:09,off_screen,"yaw=-13.6, pitch=38.3"
+2025-09-12 12:26:09,snapshot,Saved Kiran_off_screen_20250912_122609.jpg
+2025-09-12 12:26:10,multiple_faces,Detected 2 faces
+2025-09-12 12:26:10,snapshot,Saved Kiran_multiple_faces_20250912_122610.jpg
+2025-09-12 12:26:17,off_screen,"yaw=161.7, pitch=36.1"
+2025-09-12 12:26:18,snapshot,Saved Kiran_off_screen_20250912_122617.jpg
+2025-09-12 12:26:18,multiple_faces,Detected 2 faces
+2025-09-12 12:26:18,snapshot,Saved Kiran_multiple_faces_20250912_122618.jpg
+2025-09-12 12:26:26,off_screen,"yaw=-2.4, pitch=59.8"
+2025-09-12 12:26:26,snapshot,Saved Kiran_off_screen_20250912_122626.jpg
+2025-09-12 12:26:26,multiple_faces,Detected 2 faces
+2025-09-12 12:26:26,snapshot,Saved Kiran_multiple_faces_20250912_122626.jpg
+2025-09-12 12:26:34,multiple_faces,Detected 2 faces
+2025-09-12 12:26:34,snapshot,Saved Kiran_multiple_faces_20250912_122634.jpg
+2025-09-12 12:26:34,off_screen,"yaw=-4.7, pitch=20.1"
+2025-09-12 12:26:34,snapshot,Saved Kiran_off_screen_20250912_122634.jpg
+2025-09-12 12:26:36,hands_near_face,distance<= 120px
+2025-09-12 12:26:36,snapshot,Saved Kiran_hands_near_face_20250912_122636.jpg
+2025-09-12 12:26:41,talking,mouth_ratio=0.092
+2025-09-12 12:26:41,snapshot,Saved Kiran_talking_20250912_122641.jpg
+2025-09-12 12:26:42,multiple_faces,Detected 2 faces
+2025-09-12 12:26:42,snapshot,Saved Kiran_multiple_faces_20250912_122642.jpg
+2025-09-12 12:26:42,off_screen,"yaw=-22.1, pitch=51.2"
+2025-09-12 12:26:42,snapshot,Saved Kiran_off_screen_20250912_122642.jpg
+2025-09-12 12:26:44,hands_near_face,distance<= 120px
+2025-09-12 12:26:44,snapshot,Saved Kiran_hands_near_face_20250912_122644.jpg
+2025-09-12 12:26:49,talking,mouth_ratio=0.067
+2025-09-12 12:26:49,snapshot,Saved Kiran_talking_20250912_122649.jpg
+2025-09-12 12:26:50,multiple_faces,Detected 2 faces
+2025-09-12 12:26:50,snapshot,Saved Kiran_multiple_faces_20250912_122650.jpg
+2025-09-12 12:26:50,off_screen,"yaw=166.9, pitch=-2.9"
+2025-09-12 12:26:50,snapshot,Saved Kiran_off_screen_20250912_122650.jpg
+2025-09-12 12:26:52,hands_near_face,distance<= 120px
+2025-09-12 12:26:52,snapshot,Saved Kiran_hands_near_face_20250912_122652.jpg
+2025-09-12 12:26:58,off_screen,"yaw=-0.4, pitch=26.9"
+2025-09-12 12:26:58,snapshot,Saved Kiran_off_screen_20250912_122658.jpg
+2025-09-12 12:26:58,multiple_faces,Detected 2 faces
+2025-09-12 12:26:58,snapshot,Saved Kiran_multiple_faces_20250912_122658.jpg
+2025-09-12 12:27:00,talking,mouth_ratio=0.074
+2025-09-12 12:27:00,snapshot,Saved Kiran_talking_20250912_122700.jpg
+2025-09-12 12:27:03,hands_near_face,distance<= 120px
+2025-09-12 12:27:03,snapshot,Saved Kiran_hands_near_face_20250912_122703.jpg
+2025-09-12 12:27:06,off_screen,"yaw=165.2, pitch=19.8"
+2025-09-12 12:27:06,snapshot,Saved Kiran_off_screen_20250912_122706.jpg
+2025-09-12 12:27:07,multiple_faces,Detected 2 faces
+2025-09-12 12:27:07,snapshot,Saved Kiran_multiple_faces_20250912_122707.jpg
+2025-09-12 12:27:10,talking,mouth_ratio=0.091
+2025-09-12 12:27:10,snapshot,Saved Kiran_talking_20250912_122710.jpg
+2025-09-12 12:27:11,hands_near_face,distance<= 120px
+2025-09-12 12:27:11,snapshot,Saved Kiran_hands_near_face_20250912_122711.jpg
