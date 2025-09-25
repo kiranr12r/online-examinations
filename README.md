@@ -4,7 +4,8 @@
 ![Flask](https://img.shields.io/badge/Flask-Backend-black?logo=flask)
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-Face%20Mesh-orange)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Face%20Mesh-orange)<img width="1024" height="1536" alt="modearc" src="https://github.com/user-attachments/assets/47135611-5ee6-42cd-a26e-c268dcd22b0d" />
+
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 > 🚀 An **AI-driven online exam proctoring system** that uses **computer vision, voice analysis, and real-time monitoring** to ensure **fair and secure remote assessments**.
@@ -29,7 +30,8 @@
 ## 🖥️ System Architecture
 
 ```mermaid
-flowchart LR
+flowchart<img width="1024" height="1536" alt="modearc" src="https://github.com/user-attachments/assets/211913b2-e339-4ea5-99f2-ca8441d6482e" />
+ LR
     A[Candidate Login] --> B[20s Face Identification]
     B --> C[Exam Interface + Webcam Feed]
     C --> D[Processing Module]
@@ -39,5 +41,6 @@ flowchart LR
     D -->|Head Pose & Eye Tracking| E
     E --> F[Real-time Alerts to UI]
     E --> G[Auto-Submit Exam]
+
 
 
